@@ -45,3 +45,10 @@ elif (penentu==0) :
     print("baiyoh")
 else :
     print("ok")
+
+baris3 = [[2,4,3],
+          [1,5,7],
+          [0,9,5]]
+for i in range (3):
+    for j in range (3):
+        print (baris3[i][j])
