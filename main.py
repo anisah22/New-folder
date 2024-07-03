@@ -52,3 +52,8 @@ baris3 = [[2,4,3],
 for i in range (3):
     for j in range (3):
         print (baris3[i][j])
+
+kursi = 9%5
+print(kursi)
+userinput = input ("masukkan angka:")
+print(userinput)
